@@ -1,7 +1,7 @@
 ERROR_PLUGIN_QUERY_FAIL = 1003
 ERROR_PLUGIN_PARSE_RESULT_FAIL = 1004
 
-PLUGINID = 'com.synology.TMDBExample'
+PLUGINID = 'com.synology.onepace'
 THEMOVIEDB_URL = 'https://api.themoviedb.org/3/'
 BANNER_URL = 'https://image.tmdb.org/t/p/w500'
 BACKDROP_URL = 'https://image.tmdb.org/t/p/original'
